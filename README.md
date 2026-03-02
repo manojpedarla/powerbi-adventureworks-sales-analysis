@@ -36,7 +36,6 @@ An interactive Power BI dashboard analyzing AdventureWorks sales performance, pr
 | Product Lookup | Product details including cost and price | 293 |
 | Territory Lookup | 10 sales territories across 6 countries | 10 |
 | Calendar Lookup | Date dimension table | - |
-| Product Categories | 4 product categories | - |
 | Product Subcategories | Product subcategory mapping | - |
 
 ## Data Model

@@ -127,6 +127,3 @@ This project simulates a real-world BI scenario where stakeholders need visibili
 
 [LinkedIn](https://www.linkedin.com/in/manojpedarla)
 
-## License
-
-This project is licensed under the MIT License - free to use, modify, and distribute with attribution.

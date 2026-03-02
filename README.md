@@ -80,4 +80,4 @@ An interactive Power BI dashboard analyzing AdventureWorks sales performance, pr
 
 ## Author
 
-Manoj Sai Kumar Pedarla | Data Analyst | [LinkedIn](https://www.linkedin.com/in/manojpedarla)
+Manoj Pedarla | [LinkedIn](https://www.linkedin.com/in/manojpedarla)
